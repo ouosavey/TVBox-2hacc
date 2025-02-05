@@ -1,43 +1,43 @@
-### 近期因为一些原因，接口没有及时更新。给大家带来的不便表示歉意，现接口已全面更新，后续的问题请留言告诉我，感谢大家的支持！！！
+## 本接口不再支持TVBox，请各位安装OK影视，功能更多，设计更合理，并且有手机端！
 
-### GitHub加速
-国内访问地址一
-```
-主接口：
-https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
+### [OK影视下载地址](https://2hacc.lanzoue.com/b00pzypv9g) 密码:5d5i
+  
+注：有些电视可能安装不成功，可以用海信版试试，可能有惊喜
 
-小雅js：
-https://raw.iqiq.io/2hacc/TVBox/main/drpy/xiaoya.json
-```
-国内访问地址二
-```
-主接口：
-https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json
+## GitHub加速
 
-小雅js：
-https://raw.fastgit.org/2hacc/TVBox/main/drpy/xiaoya.json
-```
-国内访问备用地址一
-```
-主接口：
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json
+### 国内访问访问地址一
 
-小雅js：
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/drpy/xiaoya.json
 ```
-国内访问备用地址二
+https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
 ```
-主接口：
-https://raw.githubusercontents.com/2hacc/TVBox/main/tvbox.json
+### 国内访问访问地址二
 
-小雅js：
-https://raw.githubusercontents.com/2hacc/TVBox/main/drpy/xiaoya.json
 ```
-国内访问备用地址三
+https://raw.githubusercontents.com/2hacc/TVBox/main/oktv.json
 ```
-主接口：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
+### 国内访问访问地址三
 
-小雅js：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/xiaoya.json
+```
+https://raw.kkgithub.com/2hacc/TVBox/main/oktv.json
+```
+### 国内访问访问地址四
+```
+https://gitdl.cn/https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json
+```
+### 国内访问访问地址五
+```
+https://fastly.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
+```
+### 国内访问访问地址六
+```
+https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json
+```
+### 国内访问访问地址七
+```
+https://ghp.ci/https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json
+```
+### 国内访问访问地址八
+```
+https://raw.incept.pw/2hacc/TVBox/main/oktv.json
 ```
